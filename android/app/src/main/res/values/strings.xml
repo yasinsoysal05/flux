@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DlC Online Alışveriş</string>
+
+    <!-- TODO: 4-Update Facebook Login Feature-->
+    <string name="facebook_app_id">430258564493822</string>
+    <string name="fb_login_protocol_scheme">fb430258564493822</string>
+
+    <!-- TODO: 4-Update Google Map Address-->
+    <string name="api_key">AIzaSyDu5HegyKuIT6xqLDpg-mw2ywzMq9tYBs0</string>
+
+    <!-- TODO: 4-Update Google AdsMod-->
+    <string name="admob_api">ca-app-pub-7432665165146018~2664444130</string>
+</resources>

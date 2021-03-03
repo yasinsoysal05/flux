@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sangcomz:FishBun:0.11.2@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e68cc633f47ca7a868ab5c4193604471/jetified-FishBun-0.11.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c10c71af99f766fbb91a38bd8b7e485b/jetified-FishBun-0.11.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e68cc633f47ca7a868ab5c4193604471/jetified-FishBun-0.11.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c10c71af99f766fbb91a38bd8b7e485b/jetified-FishBun-0.11.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1009898679414",
+    "firebase_url": "https://dlconlinestore.firebaseio.com",
+    "project_id": "dlconlinestore",
+    "storage_bucket": "dlconlinestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009898679414:android:320d9a33127a5498674357",
+        "android_client_info": {
+          "package_name": "com.innovarco.dlcstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009898679414-mdibq31vlmcc6aauucu6pld1rjbg4olj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.innovarco.dlcstore",
+            "certificate_hash": "6f6838382ddb6884e4e6a55057d958f00ef347e4"
+          }
+        },
+        {
+          "client_id": "1009898679414-u1blplml7hot9klabqktiojef32sk7uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy7WAP5DHSrsjH2ktoq4rtyw4S0LiFzOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009898679414-u1blplml7hot9klabqktiojef32sk7uc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1009898679414-0fa03u8o4kkq6iuco52vkjqc2411c5n6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.innovarco.dlcyasam",
+                "app_store_id": "1542773849"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
